@@ -1,0 +1,80 @@
+thermopile value = 827.00
+thermistor value = 987.00
+ambient temp = -11896277.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 785.00
+thermistor value = 988.00
+ambient temp = -14457341.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 840.00
+thermistor value = 987.00
+ambient temp = -11896277.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 836.00
+thermistor value = 987.00
+ambient temp = -11896277.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 848.00
+thermistor value = 987.00
+ambient temp = -11896277.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 813.00
+thermistor value = 886.00
+ambient temp = -618.14
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 843.00
+thermistor value = 987.00
+ambient temp = -11896277.00
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 808.00
+thermistor value = 881.00
+ambient temp = -381.25
+object temp = nan
+
+V Ter = nan
+
+V amb = nan
+
+thermopile value = 811.00
+thermistor value = 881.00
+ambient temp = -381.25
+object temp = nan
+
+V Ter = nan
+
+V amb = nan

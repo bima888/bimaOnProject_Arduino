@@ -1,0 +1,224 @@
+thermopile value = 779.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.40
+
+V Ter = 23.31
+
+V amb = 20.71
+
+thermopile value = 775.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.38
+
+V Ter = 23.14
+
+V amb = 20.55
+
+thermopile value = 785.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.58
+
+V Ter = 23.34
+
+V amb = 20.71
+
+thermopile value = 780.002320.
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.43
+
+V Ter = 23.31
+
+V amb = 20.71
+
+thermopile value = 779.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.40
+
+V Ter = 23.31
+
+V amb = 20.71
+
+thermopile value = 781.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.56
+
+V Ter = 23.16
+
+V amb = 20.55
+
+thermopile value = 783.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.52
+
+V Ter = 23.33
+
+V amb = 20.71
+
+thermopile value = 780.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.43
+
+V Ter = 23.31
+
+V amb = 20.71
+
+thermopile value = 773.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.32
+
+V Ter = 23.13
+
+V amb = 20.55
+
+thermopile value = 786.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.71
+
+V Ter = 23.19
+
+V amb = 20.55
+
+thermopile value = 780.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.53
+
+V Ter = 23.16
+
+V amb = 20.55
+
+thermopile value = 779.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.50
+
+V Ter = 23.15
+
+V amb = 20.55
+
+thermopile value = 782.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.49
+
+V Ter = 23.32
+
+V amb = 20.71
+
+thermopile value = 785.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.58
+
+V Ter = 23.34
+
+V amb = 20.71
+
+thermopile value = 780.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.43
+
+V Ter = 23.31
+
+V amb = 20.71
+
+thermopile value = 773.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.22
+
+V Ter = 23.28
+
+V amb = 20.71
+
+thermopile value = 784.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.55
+
+V Ter = 23.33
+
+V amb = 20.71
+
+thermopile value = 781.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.46
+
+V Ter = 23.32
+
+V amb = 20.71
+
+thermopile value = 776.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.31
+
+V Ter = 23.29
+
+V amb = 20.71
+
+thermopile value = 786.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.61
+
+V Ter = 23.34
+
+V amb = 20.71
+
+thermopile value = 780.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.53
+
+V Ter = 23.16
+
+V amb = 20.55
+
+thermopile value = 774.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.35
+
+V Ter = 23.13
+
+V amb = 20.55
+
+thermopile value = 787.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.64
+
+V Ter = 23.35
+
+V amb = 20.71
+
+thermopile value = 781.00
+thermistor value = 769.00
+ambient temp = 257.64
+object temp = 417.46
+
+V Ter = 23.32
+
+V amb = 20.71
+
+thermopile value = 771.00
+thermistor value = 768.00
+ambient temp = 256.42
+object temp = 415.26
+
+V Ter = 23.12
+
+V amb = 20.55
